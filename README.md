@@ -4,3 +4,6 @@ This repo is about Git and GitHub Crash Course from YouTube FreeCodeCamp taught 
 
 ## Subheader
 Watch tutorial on YouTube FreeCodeCamp.
+
+## Instructions
+1. Open index.html in your browser.
